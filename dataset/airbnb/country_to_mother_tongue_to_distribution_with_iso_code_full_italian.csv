@@ -1,0 +1,311 @@
+;Country Italian;Country;Country iso code;mother tongue
+4;Andorra;Andorra;AD;4
+211;Emirati Arabi Uniti;United Arab Emirates;AE;1
+0;Afghanistan;Afghanistan;AF;5
+6;Antigua and Barbuda;Antigua and Barbuda;AG;1
+1;Albania;Albania;AL;3
+8;Armenia;Armenia;AM;3
+5;Angola;Angola;AO;11
+7;Argentina;Argentina;AR;3
+3;American Samoa;American Samoa;AS;3
+11;Austria;Austria;AT;4
+10;Australia;Australia;AU;6
+9;Aruba;Aruba;AW;
+225;Isole Aland;Aland Islands;AX;6
+12;Azerbaijan;Azerbaijan;AZ;4
+25;Bosnia and Herzegovina;Bosnia and Herzegovina;BA;3
+16;Barbados;Barbados;BB;1
+15;Bangladesh;Bangladesh;BD;7
+18;Belgio;Belgium;BE;4
+30;Burkina Faso;Burkina Faso;BF;6
+29;Bulgaria;Bulgaria;BG;4
+14;Bahrein;Bahrain;BH;1
+32;Burundi;Burundi;BI;4
+20;Benin;Benin;BJ;7
+21;Bermuda;Bermudas;BM;1
+28;Brunei;Brunei;BN;5
+23;Bolivia;Bolivia;BO;5
+24;Bonaire, Saint Eustatius e Saba;Bonaire, Saint Eustatius and Saba;BQ;4
+27;Brasile;Brazil;BR;5
+13;Bahamas;Bahamas;BS;2
+22;Bhutan;Bhutan;BT;5
+31;Burma;Burma;BU;8
+26;Botswana;Botswana;BW;7
+17;Belarus;Belarus;BY;4
+19;Belize;Belize;BZ;6
+35;Canada;Canada;CA;14
+51;Repubblica Democartica del Congo;Democratic Republic of the Congo;CD;10
+38;Repubblica Centrale Africana;Central African Republic;CF;6
+164;Repubblica del Congo;Republic of the Congo;CG;5
+195;Svizzera;Switzerland;CH;8
+97;Costa D'Avorio;Ivory Coast;CI;5
+44;Isole Cook;Cook Islands;CK;2
+40;Cile;Chile;CL;6
+34;Cameron;Cameroon;CM;8
+41;Cina;China;CN;11
+42;Colombia;Colombia;CO;5
+45;Costa Rica;Costa Rica;CR;4
+47;Cuba;Cuba;CU;1
+36;Capo Verde;Cape Verde;CV;2
+48;Curacao;Curacao;CW;4
+49;Cipro;Cyprus;CY;7
+50;Czechia;Czechia;CZ;8
+73;Germania;Germany;DE;6
+53;Gibuti;Djibouti;DJ;3
+52;Danimarca;Denmark;DK;7
+54;Dominica;Dominica;DM;1
+55;Repubblica Dominicana;Dominican Republic;DO;2
+2;Algeria;Algeria;DZ;2
+56;Ecuador;Ecuador;EC;2
+61;Estonia;Estonia;EE;5
+57;Egitto;Egypt;EG;1
+221;Western Sahara;Western Sahara;EH;1
+60;Eritrea;Eritrea;ER;6
+189;Spagna;Spain;ES;4
+62;Etiopia;Ethiopia;ET;13
+66;Finlandia;Finland;FI;2
+65;Figi;Fiji;FJ;2
+63;Falkland Islands;Falkland Islands;FK;2
+130;Micronesia;Micronesia;FM;6
+64;Isole Faroe;Faroe Islands;FO;1
+67;Francia;France;FR;6
+70;Gabon;Gabon;GA;3
+212;United Kingdom;United Kingdom;GB;3
+78;Grenada;Grenada;GD;1
+72;Georgia;Georgia;GE;6
+68;Guiana Francese;French Guiana;GF;3
+74;Ghana;Ghana;GH;11
+75;Gibilterra;Gibraltar;GI;2
+77;Groenlandia;Greenland;GL;2
+71;Gambia;Gambia;GM;5
+82;Guinea;Guinea;GN;7
+79;Guadalupa;Guadeloupe;GP;1
+59;Guinea Equatoriale;Equatorial Guinea;GQ;3
+76;Grecia;Greece;GR;2
+81;Guatemala;Guatemala;GT;5
+80;Guam;Guam;GU;5
+83;Guinea-Bissau;Guinea-Bissau;GW;6
+84;Guyana;Guyana;GY;3
+87;Hong-Kong;Hong Kong;HK;3
+86;Honduras;Honduras;HN;4
+46;Croazia;Croatia;HR;6
+85;Haiti;Haiti;HT;1
+88;Ungheria;Hungary;HU;7
+91;Indonesia;Indonesia;ID;10
+94;Irlanda;Ireland;IE;2
+95;Israele;Israel;IL;3
+90;India;India;IN;13
+93;Iraq;Iraq;IQ;5
+92;Iran;Iran;IR;10
+89;Islanda;Iceland;IS;1
+96;Italia;Italy;IT;8
+100;Jersey;Jersey;JE;2
+98;Giamaica;Jamaica;JM;2
+101;Jordan;Jordan;JO;3
+99;Giappone;Japan;JP;5
+103;Kenya;Kenya;KE;9
+107;Kyrgyzstan;Kyrgyzstan;KG;4
+33;Cambodia;Cambodia;KH;4
+104;Kiribati;Kiribati;KI;2
+43;Comoros;Comoros;KM;5
+169;Saint Kitts and Nevis;Saint Kitts and Nevis;KN;1
+147;Corea del Nord;North Korea;KP;2
+188;Corea del Sud;South Korea;KR;2
+106;Kuwait;Kuwait;KW;1
+37;Isole Cayman;Cayman Islands;KY;3
+102;Kazakistan;Kazakhstan;KZ;6
+108;Laos;Laos;LA;4
+110;Libano;Lebanon;LB;2
+170;Santa Lucia;Saint Lucia;LC;2
+114;Liechtenstein;Liechtenstein;LI;2
+190;Sri Lanka;Sri Lanka;LK;2
+112;Liberia;Liberia;LR;9
+111;Lesoto;Lesotho;LS;2
+115;Lituania;Lithuania;LT;3
+116;Lussemburgo;Luxembourg;LU;5
+109;Lettonia;Latvia;LV;5
+113;Libia;Libya;LY;2
+135;Marocco;Morocco;MA;2
+132;Monaco;Monaco;MC;4
+131;Moldova;Moldova;MD;6
+134;Montenegro;Montenegro;ME;4
+171;Saint Martin;Saint Martin;MF;3
+118;Madagascar;Madagascar;MG;1
+124;Marshall Islands;Marshall Islands;MH;1
+148;Macedonia;North Macedonia;MK;5
+122;Mali;Mali;ML;10
+133;Mongolia;Mongolia;MN;6
+117;Macao;Macao;MO;4
+149;Northern Mariana Islands;Northern Mariana Islands;MP;5
+125;Martinique;Martinique;MQ;1
+126;Mauritania;Mauritania;MR;6
+123;Malta;Malta;MT;2
+127;Mauritius;Mauritius;MU;5
+121;Maldive;Maldives;MV;1
+119;Malawi;Malawi;MW;4
+129;Messico;Mexico;MX;6
+120;Malesia;Malaysia;MY;7
+136;Mozambico;Mozambique;MZ;6
+140;Nuova Celedonia;New Caledonia;NC;3
+143;Niger;Niger;NE;5
+146;Norfolk Island;Norfolk Island;NF;1
+144;Nigeria;Nigeria;NG;10
+142;Nicaragua;Nicaragua;NI;4
+139;Olanda;Netherlands;NL;4
+150;Norvegia;Norway;NO;4
+138;Nepal;Nepal;NP;12
+137;Nauru;Nauru;NR;5
+145;Niue;Niue;NU;2
+141;Paesi Bassi;New Zealand;NZ;6
+151;Oman;Oman;OM;1
+155;Panama;Panama;PA;6
+158;Perù;Peru;PE;4
+69;Polinesia Francese;French Polynesia;PF;4
+156;Papua Nuova Guinea;Papua New Guinea;PG;1
+159;Filippine;Philippines;PH;15
+152;Pakistan;Pakistan;PK;8
+160;Polonia;Poland;PL;4
+162;Portorico;Puerto Rico;PR;2
+154;Palestina;Palestine;PS;2
+161;Portogallo;Portugal;PT;1
+153;Palau;Palau;PW;5
+157;Paraguay;Paraguay;PY;4
+163;Qatar;Qatar;QA;1
+165;Réunion;Reunion;RE;4
+166;Romania;Romania;RO;5
+178;Serbia;Serbia;RS;4
+167;Russia;Russia;RU;14
+168;Ruanda;Rwanda;RW;3
+176;Sud Arabia;Saudi Arabia;SA;1
+185;Isole Solomon;Solomon Islands;SB;2
+179;Seychelles;Seychelles;SC;3
+191;Sudan;Sudan;SD;10
+194;Svezia;Sweden;SE;6
+181;Singapore;Singapore;SG;6
+184;Slovenia;Slovenia;SI;5
+183;Slovacchia;Slovakia;SK;5
+180;Sierra Leone;Sierra Leone;SL;7
+174;San Marino;San Marino;SM;1
+177;Senegal;Senegal;SN;6
+186;Somalia;Somalia;SO;1
+192;Suriname;Suriname;SR;1
+175;Sao Tome and Principe;Sao Tome and Principe;ST;7
+58;El Salvador;El Salvador;SV;2
+182;Sint Maarten;Sint Maarten;SX;4
+196;Siria;Syria;SY;2
+193;Swaziland;Swaziland;SZ;2
+39;Chad;Chad;TD;8
+201;Togo;Togo;TG;8
+200;Tailandia;Thailand;TH;7
+198;Tajikistan;Tajikistan;TJ;3
+202;Tokelau;Tokelau;TK;5
+207;Turkmenistan;Turkmenistan;TM;4
+205;Tunisia;Tunisia;TN;3
+203;Tonga;Tonga;TO;1
+206;Turchia;Turkey;TR;3
+204;Trinidad e Tobago;Trinidad and Tobago;TT;3
+208;Tuvalu;Tuvalu;TV;2
+197;Taiwan;Taiwan;TW;5
+199;Tanzania;Tanzania;TZ;11
+210;Ucraina;Ukraine;UA;7
+209;Uganda;Uganda;UG;10
+213;Stati Uniti;United States;US;12
+214;Uruguay;Uruguay;UY;1
+215;Uzbekistan;Uzbekistan;UZ;6
+172;Saint Vincent e Grenadines;Saint Vincent and the Grenadines;VC;1
+217;Venezuela;Venezuela;VE;3
+219;Isole Vergini;Virgin Islands;VG;3
+218;Vietnam;Vietnam;VN;8
+216;Vanuatu;Vanuatu;VU;3
+220;Wallis and Futuna;Wallis and Futuna;WF;3
+173;Samoa;Samoa;WS;3
+105;Kosovo;Kosovo;XK;5
+222;Yemen;Yemen;YE;1
+128;Mayotte;Mayotte;YT;3
+187;Sud Africa;South Africa;ZA;11
+223;Zambia;Zambia;ZM;15
+224;Zimbabwe;Zimbabwe;ZW;4
+;Bielorussia;Bielorussia;BY;1
+;Cambogia;Cambogia;KH;1
+;Curaçao;Curaçao;NL-CW;1
+;Giordania;Giordania;JO;1
+;Guernsey;Guernsey;GBG;1
+;Isola di Man;Isola di Man;IM;1
+;Regno Unito;Regno Unito;UK;1
+;Sudafrica;Sudafrica;ZA;1
+;Arabia Saudita;Arabia Saudita;SA;1
+;Moldavia;Moldavia;MD;1
+;Namibia;Namibia;NA;1
+;North Macedonia;North Macedonia;MK;1
+;Antartide;Antartide;AQ;1
+;Malaysia;Malaysia;MY;1
+;Martinica;Martinica;MQ;1
+;Nuova Zelanda;New Zeland;NZ;1
+;Nuova Celedonia;New Caledonia;NC;1
+;Repubblica Ceca;Repubblica Ceca;CZ;1
+;Rhode Island;Rhode Island;
+;Alabama;Alabama;US-AL;1
+;Alaska;Alaska;US-AK;1
+;Arizona;Arizona;US-AZ;1
+;Arkansas;Arkansas;US-AR;1
+;California;California;US-CA;1
+;Colorado;Colorado;US-CO;1
+;Connecticut;Connecticut;US-CT;1
+;Delaware;Delaware;US-DE;1
+;Florida;Florida;US-FL;1
+;Georgia;Georgia;US-GA;1
+;Hawaii;Hawaii;US-HI;1
+;Idaho;Idaho;US-ID;1
+;Illinois;Illinois;US-IL;1
+;Indiana;Indiana;US-IN;1
+;Iowa;Iowa;US-IA;1
+;Kansas;Kansas;US-KS;1
+;Kentucky;Kentucky;US-KY;1
+;Louisiana;Louisiana;US-LA;1
+;Maine;Maine;US-ME;1
+;Maryland;Maryland;US-MD;1
+;Massachusetts;Massachusetts;US-MA;1
+;Michigan;Michigan;US-MI;1
+;Minnesota;Minnesota;US-MN;1
+;Mississippi;Mississippi;US-MS;1
+;Missouri;Missouri;US-MO;1
+;Montana;Montana;US-MT;1
+;Nebraska;Nebraska;US-NE;1
+;Nevada;Nevada;US-NV;1
+;New Hampshire;New Hampshire;US-NH;1
+;New Jersey;New Jersey;US-NJ;1
+;New Mexico;New Mexico;US-NM;1
+;New York;New York;US-NY;1
+;North Carolina;North Carolina;US-NC;1
+;North Dakota;North Dakota;US-ND;1
+;Ohio;Ohio;US-OH;1
+;Oklahoma;Oklahoma;US-OK;1
+;Oregon;Oregon;US-OR;1
+;Pennsylvania;Pennsylvania;US-PA;1
+;Rhode Island;Rhode Island;US-RI;1
+;South Carolina;South Carolina;US-SC;1
+;South Dakota;South Dakota;US-SD;1
+;Tennessee;Tennessee;US-TN;1
+;Texas;Texas;US-TX;1
+;Utah;Utah;US-UT;1
+;Vermont;Vermont;US-VT;1
+;Virginia;Virginia;US-VA;1
+;Washington;Washington;US-WA;1
+;West Virginia;West Virginia;US-WV;1
+;Wisconsin;Wisconsin;US-WI;1
+;Wyoming;Wyoming;US-WY;1
+;District of Columbia;District of Columbia;US-DC;1
+;American Samoa;American Samoa;US-AS;1
+;Guam;Guam;US-GU;1
+;Northern Mariana Islands;Northern Mariana Islands;US-MP;1
+;Puerto Rico;Puerto Rico;US-PR;1
+;United States Minor Outlying Islands;United States Minor Outlying Islands;US-UM;1
+;Isole Vergini Americane;Virgin Islands, U.S.;US-VI;1
+;The Bahamas;The Bahamas;BS;1
+;Bosnia Erzegovina;Bosnia Erzegovina;BA;1
+;Nuova Caledonia;Nuova Caledonia;NC;1
+;Myanmar;Myanmar;MM;1
+;Mevo Hama;Mevo Hama;IL-occupied;1
+;Athienou;Athienou;UN buffer zone;1
+;Reunion;Reunion;RE;1
+;Northern Ireland;Northern Ireland;Northern Ireland;1
