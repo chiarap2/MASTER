@@ -1,11 +1,11 @@
 .DS_Store
+**/.DS_Store
 data_preprocessing
 dataset/airbnb/.ipynb_checkpoints
 dataset/airbnb/2019-09-30
 dataset/airbnb/country_to_mother_tongue_to_distribution_with_iso_code_full_italian.csv
 dataset/airbnb/country_to_mother_tongue_to_distribution_with_iso_code_full.csv
 dataset/airbnb/distribution_by_declared_country.csv
-dataset/.DS_Store
 research_questions/.ipynb_checkpoints
 research_questions/sentiment_about_the_island
 research_questions/where_do_they_go_and_when
@@ -14,5 +14,3 @@ research_questions/RQ_D_predict_arrival_departure_flow/.ipynb_checkpoints
 research_questions/which_is_the_origin_country_of_travelers/.ipynb_checkpoints
 research_questions/RQ_E_sentiment_about_the_island
 research_questions/RQ_A_which_is_the_origin_country_of_travelers/.ipynb_checkpoints
-research_questions/where_do_they_go_and_when
-research_questions/.DS_Store
