@@ -58,7 +58,9 @@ In the ```airbnb``` folder, you can insert a ```airbnb.csv``` file with at least
 - ```longitude```: the room/flat longitude;
 - ```mimimum_nights```: the minimum number of nights required to book.
 
-In the ```osm``` folder, you can insert the file ```santorini.gpx``` file containing the trajectories from OpenStreetMap API (you can download it from JOSM application - https://josm.openstreetmap.de/, selecting the bounding box of Santorini).
+In the ```osm``` folder, you can insert the ```santorini.gpx``` file containing the trajectories from OpenStreetMap API (you can download it from JOSM application - https://josm.openstreetmap.de/, selecting the bounding box of Santorini).
+
+In the ```flights``` folder, you can insert files containing the information about the number of domestic and international passengers per month and year.
 
 In the ```research_questions``` folder, you can find a folder for each of the five questions described above. In each of these folders, you find a file with the ```.ipynb``` extension in which we analyse the datasets described above and an ```output``` subfolder with the results (represented with both plots and description files).
 
