@@ -5,3 +5,4 @@ dataset/airbnb/2019-09-30
 dataset/airbnb/country_to_mother_tongue_to_distribution_with_iso_code_full_italian.csv
 dataset/airbnb/country_to_mother_tongue_to_distribution_with_iso_code_full.csv
 dataset/airbnb/distribution_by_declared_country.csv
+dataset/.DS_Store
