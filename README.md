@@ -66,4 +66,4 @@ In the ```research_questions``` folder, you can find a folder for each of the fi
 
 If you want to run code locally, you can download the entire repository and install the requirements as follow:
 
-    pip install requirements.txt
+    pip install -r requirements.txt
