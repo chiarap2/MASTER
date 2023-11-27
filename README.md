@@ -17,31 +17,36 @@ In order to monitor the tourism flow in Santorini Island, the questions we want 
 The project is organized as follow:
 
 ```
-project
-│   README.md
-│   requirements.txt    
+MASTER/
 │
-└───dataset
-│   └───airbnb
-│   └───flights
-│   └───osm
-│   └───tweets
-│   
-└───research_questions
-│   └───RQ_A_which_is_the_origin_country_of_travelers
-|   |   |   code.ipynb
-│   |   |   
-│   |   └───output
-|   |
-│   └───RQ_B_how_long_do_tourist_stay
-|   |   |   code.ipynb
-│   |   |   
-│   |   └───output
-|   |
-│   └───RQ_D_predict_arrival_departure_flow
-|       |   code.ipynb
-│       |   
-│       └───output
+├── datasets/
+│   ├── airbnb/
+│   ├── flights/
+│   ├── tweets/
+│   └── osm/
+│
+└── research_questions/
+    │
+    ├── RQ_A_which_is_the_origin_country_of_travelers/
+    │   ├── outputs/
+    │   └── code.ipynb
+    │
+    ├── RQ_B_how_long_do_tourist_stay/
+    │   ├── outputs/
+    │   └── code.ipynb
+    │
+    ├── RQ_C_are_the_first_visitors_and_returning_visitors_behaving_differently/
+    │   ├── outputs/
+    │   └── code.ipynb
+    │
+    ├── RQ_D_predict_arrival_departure_flow/
+    │   ├── outputs/
+    │   └── code.ipynb
+    │
+    └── RQ_E_which_is_the_qualitative_level_of_satisfaction_dissatisfaction_of_users/
+        ├── outputs/
+        └── code.ipynb
+
 
 ```
 
