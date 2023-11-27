@@ -1,7 +1,8 @@
 .DS_Store
 **/.DS_Store
 data_preprocessing
-dataset/airbnb/.ipynb_checkpoints
+dataset/airbnb/listings.csv
+dataset/airbnb/reviews_complete.csv
 dataset/airbnb/2019-09-30
 dataset/airbnb/country_to_mother_tongue_to_distribution_with_iso_code_full_italian.csv
 dataset/airbnb/country_to_mother_tongue_to_distribution_with_iso_code_full.csv
