@@ -74,3 +74,6 @@ In the ```research_questions``` folder, you can find a folder for each of the fi
 If you want to run code locally, you can download the entire repository and install the requirements as follow:
 
     pip install -r requirements.txt
+
+## DOI
+[![DOI](https://zenodo.org/badge/599025662.svg)](https://doi.org/10.5281/zenodo.15120715)
